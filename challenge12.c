@@ -21,5 +21,5 @@ int main() {
         printf("They are the same instant.\n");
     }
 
-    return 0; // Return 0 to indicate successful completion
+    return 0;
 }
